@@ -1,0 +1,6 @@
+{
+  "name": "NxtWave Build60 Growth Engine",
+  "description": "Product-led acquisition engine, WhatsApp squad referral tracker, and automated AI project evaluator designed to drive 500 final-year B.Tech workshop registrations in 7 days on a ₹2,000 budget.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
